@@ -29,7 +29,7 @@ export default function Custom() {
                         <p>
                             搭建一个收200元，会流量玩法的可以弄一下，我也偷师学习一下。
                         </p>
-                        <p class="font-black">加微信 wbot10</p>
+                        <p class="font-black">加微信 Kikilzq99</p>
                     </div>
                 </div>
             </div>
