@@ -12,7 +12,7 @@ export default function Page() {
         <img src="/logo.png" class="w-16 h-16" />
         <h2 class="my-4">最新自由定制版即将发布</h2>
         <div class="p-4 border-4 rounded bg-pink-500 border-double">
-          <div>https://17fei.fun</div>
+          <div>https://fxq.kk1914.run</div>
           <div>支持不同设备访问，不获取隐私信息</div>
         </div>
         <div class="text-left leading-8 font-black mt-8">

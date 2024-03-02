@@ -19,7 +19,7 @@ deno task start
 
 ### 其他分享
 
-https://17fei.fun/share0
+https://fxq.kk1914.run/share0
 
 ### 个人微信
 
